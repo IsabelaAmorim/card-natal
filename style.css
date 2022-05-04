@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+*{
+    margin: 0px;
+}
+.corpo{
+    width: 560px ;
+    height: 1338px;
+}
+.conteudo_base{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 360px;
+    height: 87.77px;
+    line-height: 17px;
+}
+#texto_1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 360px;
+    height: 87.77px;
+    line-height: 17px;
+    margin: 10px 99px ;
+}
+#texto_2{
+    margin: 10px 99px;
+    font-weight: 700;
+    color:#11C76F;
+    height: 40px;
+}
+#ifood{
+    margin: 0px 225px;
+}
+#texto_3{
+    font-weight: 800;
+    width: 200px;
+    height: 40px;
+    margin: 20px 180px;
+    font-size: 15px;
+}
+#Picpaycard{
+    margin: 0px 80px;
+}
+#texto_4{
+    margin: 20px 90px;
+    height: 270px;
+}
+#texto_5{
+    margin: 20px 90px;
+    font-weight: 400; 
+    height: 60px;
+}
+#links{
+    margin: 20px 140px;
+    height: 70px;
+}
+#texto_6{
+    margin: 20px 90px;
+    font-weight: 300; 
+}
+#texto_7{
+    color: rgb(17, 110, 197);
+    text-decoration:underline;
+    margin: 20px 90px;
+}
